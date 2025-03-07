@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Dashboard from "./pages/Dashboard";
-import Portfolio from "./pages/Portfolio";
 import Game from "./pages/Game";
 import Pomodoro from "./pages/Pomodoro";
 import Tasks from "./pages/Tasks";
