@@ -30,7 +30,7 @@ interface Song {
   audio: string;
 }
 
-const API_KEY = "3c55c3d3"; // Replace with your actual API key
+const API_KEY = "Your_API"; // Replace with your actual API key
 
 const quotes = [
   "Believe in yourself and all that you are! 🚀",
