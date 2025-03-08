@@ -15,7 +15,6 @@
 - **Stats (Collaborative)**: Track your productivity and progress.  
 - **Notes (Save Notes)**: Keep your ideas and to-dos organized.  
 - **Dashboard**: Display user information, stats, achievements.  
-- **Portfolio**: Show off your projects, skills, and achievements.
 
 ---
 
